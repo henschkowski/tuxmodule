@@ -16,7 +16,7 @@ This module provides access to the Tuxedo [ATMI](http://download.oracle.com/docs
 
 First, build the module:
 
-  * Check-out or download the source code from the Downloads or Source tab.
+  * Check-out or download the source code.
   * Set TUXDIR (for example, `export TUXDIR=/opt/bea/tuxedo8.1`)
   * Make sure that you use the desired version of python on the command line
   * Run `python setup.py build --force` to compile the sources
